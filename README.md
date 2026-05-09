@@ -11,22 +11,22 @@ This repository contains a series of laboratory works focused on data preprocess
 **English:** Initial data processing: handling missing values, outlier detection using BoxPlots, and feature engineering.
 **Русский:** Предварительная обработка данных: анализ пропусков, оценка распределения и поиск выбросов через BoxPlot.
 - **Plots / Графики:**
-  - `![Missing Values / Heatmap](pics/2.1.png)`
-  - `![Data Distribution](pics/2.2.png)`
-  - `![Outliers Boxplot](pics/2.3.png)`
+  - ![Missing Values / Heatmap](pics/2.1.png)
+  - ![Data Distribution](pics/2.2.png)
+  - ![Outliers Boxplot](pics/2.3.png)
 
 ### Lab 3: Linear Models / ЛР 3: Линейные модели
 **English:** Implementation of Linear Regression and analyzing metric optimization (MSE, R2).
 **Русский:** Реализация линейной регрессии и анализ оптимизации метрик (MSE, R2).
 - **Plots / Графики:**
-  - `![Learning Curve](pics/3.1.png)`
-  - `![Regression Analysis](pics/3.2.png)`
+  - ![Learning Curve](pics/3.1.png)
+  - ![Regression Analysis](pics/3.2.png)
 
 ### Lab 4: Data Classification / ЛР 4: Классификация данных
 **English:** Implementation of binary classification (Logistic Regression, SVM, CART) to predict bank loan defaults.
 **Русский:** Реализация бинарной классификации (Логистическая регрессия, SVM, CART) для прогнозирования дефолтов по кредитам.
 - **Plots / Графики:**
-  - `![Metrics Comparison](pics/4.1.png)`
+  - ![Metrics Comparison](pics/4.1.png)
 
 ### Lab 5: Decision Trees / ЛР 5: Деревья решений
 **English:** A custom "from-scratch" implementation of a Decision Tree classifier using Gini Impurity.
@@ -37,23 +37,23 @@ This repository contains a series of laboratory works focused on data preprocess
 **English:** Advanced prediction using Random Forest and Gradient Boosting with GridSearchCV optimization.
 **Русский:** Продвинутое прогнозирование с использованием Random Forest и Gradient Boosting с оптимизацией через GridSearchCV.
 - **Plots / Графики:**
-  - `![Feature Importance](pics/6.1.png)`
-  - `![GridSearch Heatmap](pics/6.2.png)`
+  - ![Feature Importance](pics/6.1.png)
+  - ![GridSearch Heatmap](pics/6.2.png)
 
 ### Lab 7: Clustering / ЛР 7: Кластеризация
 **English:** Unsupervised learning to group user interests using K-Means and DBSCAN with PCA visualization.
 **Русский:** Обучение без учителя: сегментация интересов пользователей с помощью K-Means, DBSCAN и визуализация через PCA.
 - **Plots / Графики:**
-  - `![Elbow Method](pics/7.1.png)`
-  - `![PCA Clusters Map](pics/7.2.png)`
+  - ![Elbow Method](pics/7.1.png)
+  - ![PCA Clusters Map](pics/7.2.png)
 
 ### Lab 8: Convolutional Neural Networks (CNN) / ЛР 8: Сверточные нейросети
 **English:** Deep Learning for CIFAR-10 image recognition and visualization of learned convolutional filters.
 **Русский:** Глубокое обучение для распознавания изображений CIFAR-10 и визуализация обученных сверточных фильтров.
 - **Plots / Графики:**
-  - `![Training History Loss/Acc](pics/8.1.png)`
-  - `![CIFAR-10 Predictions](pics/8.2.png)`
-  - `![Convolutional Filters](pics/8.3.png)`
+  - ![Training History Loss/Acc](pics/8.1.png)
+  - ![CIFAR-10 Predictions](pics/8.2.png)
+  - ![Convolutional Filters](pics/8.3.png)
 
 ---
 
