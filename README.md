@@ -65,7 +65,7 @@ This repository contains a series of laboratory works focused on data preprocess
 
 ```bash
 # Clone the repository
-git clone [https://github.com/let-fughes/ML-Course.git](https://github.com/let-fughes/ML-Course.git)
+git clone https://github.com/let-fughes/ML-Course.git
 cd ML-Course
 
 # Create and activate a virtual environment 
@@ -74,3 +74,4 @@ source .venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
+```
